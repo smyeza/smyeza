@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Sandile Myeza.
 - 👀 I’m intrested in HTML,CSS,PHP,JS and SQL.
-- 🌱 I'm currently learning HTML,CSS and JS.
-- 💞️ I’m looking to collaborate on web development projects.
+- 🌱 I'm currently learning Data Analysis using SQL,Excel,Python and PowerBI.
+- 💞️ I’m looking to collaborate on Data Analysis projects.
 - 📫 You can contact me on my email: scmyeza1@gmail.com or LinkedIn: www.linkedin.com/in/scmyeza.
 
 <!---
